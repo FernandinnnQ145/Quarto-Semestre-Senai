@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:domains\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\domains\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:domains\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\domains\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:domains\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\minimalapimongo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:minimalapimongo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|c:\\users\\43869817801\\desktop\\quarto semestre\\minimalapimongo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4BAC235E-0377-4B24-A136-7A7ED7346899}|minimalApiMongo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwGsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T17:32:50.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T19:57:22.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "Controllers\\ClientController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:26:23.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Domains\\Order.cs",
+              "RelativeDocumentMoniker": "Domains\\Order.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Domains\\Order.cs",
+              "RelativeToolTip": "Domains\\Order.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:08:47.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Domains\\Client.cs",
+              "RelativeDocumentMoniker": "Domains\\Client.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Domains\\Client.cs",
+              "RelativeToolTip": "Domains\\Client.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:04:06.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Domains\\User.cs",
+              "RelativeDocumentMoniker": "Domains\\User.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Domains\\User.cs",
+              "RelativeToolTip": "Domains\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-29T18:00:54.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv1oAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:22:09.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Domains\\Product.cs",
+              "RelativeDocumentMoniker": "Domains\\Product.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Domains\\Product.cs",
+              "RelativeToolTip": "Domains\\Product.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:09:10.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Services\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "Services\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Services\\MongoDbService.cs",
+              "RelativeToolTip": "Services\\MongoDbService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:42:09.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "minimalApiMongo.csproj",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\minimalApiMongo.csproj",
+              "RelativeDocumentMoniker": "minimalApiMongo.csproj",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\minimalApiMongo.csproj",
+              "RelativeToolTip": "minimalApiMongo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T17:41:47.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:40:08.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto semestre\\minimalApiMongo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T17:35:06.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
