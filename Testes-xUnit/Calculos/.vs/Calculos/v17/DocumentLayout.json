@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D3E608-787F-4A34-9AC2-E7EBB0EF0204}|..\\Calculos.Test\\Calculos.Test.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\calculos.test\\calculounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D3E608-787F-4A34-9AC2-E7EBB0EF0204}|..\\Calculos.Test\\Calculos.Test.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\calculos.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAB3A36-EA58-4703-9190-CB7674996123}|Calculos.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\calculos\\calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAB3A36-EA58-4703-9190-CB7674996123}|Calculos.csproj|solutionrelative:calculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D3E608-787F-4A34-9AC2-E7EBB0EF0204}|..\\Calculos.Test\\Calculos.Test.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\calculos.test\\calculos.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAB3A36-EA58-4703-9190-CB7674996123}|Calculos.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\calculos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAB3A36-EA58-4703-9190-CB7674996123}|Calculos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculos.Test.csproj",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos.Test\\Calculos.Test.csproj",
+              "RelativeDocumentMoniker": "..\\Calculos.Test\\Calculos.Test.csproj",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos.Test\\Calculos.Test.csproj",
+              "RelativeToolTip": "..\\Calculos.Test\\Calculos.Test.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-31T19:36:32.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculoUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos.Test\\CalculoUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\Calculos.Test\\CalculoUnitTest.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos.Test\\CalculoUnitTest.cs",
+              "RelativeToolTip": "..\\Calculos.Test\\CalculoUnitTest.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:36:47.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\Calculos.Test\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\Calculos.Test\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:32:01.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculo.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos\\Calculo.cs",
+              "RelativeDocumentMoniker": "Calculo.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos\\Calculo.cs",
+              "RelativeToolTip": "Calculo.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:22:12.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Calculos\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T19:19:25.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

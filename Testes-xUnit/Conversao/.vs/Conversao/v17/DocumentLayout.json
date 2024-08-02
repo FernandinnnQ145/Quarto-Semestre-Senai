@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Conversao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38E752C6-9676-4A27-9581-554BADEE6E8A}|..\\ConversaoTeste\\ConversaoTeste.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\conversaoteste\\conversaoteste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38E752C6-9676-4A27-9581-554BADEE6E8A}|..\\ConversaoTeste\\ConversaoTeste.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\conversaoteste\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04760485-C429-4998-B098-1524D602711F}|Conversao.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\conversao\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04760485-C429-4998-B098-1524D602711F}|Conversao.csproj|solutionrelative:conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04760485-C429-4998-B098-1524D602711F}|Conversao.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\conversao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04760485-C429-4998-B098-1524D602711F}|Conversao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConversaoTeste",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\ConversaoTeste\\ConversaoTeste.csproj",
+              "RelativeDocumentMoniker": "..\\ConversaoTeste\\ConversaoTeste.csproj",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\ConversaoTeste\\ConversaoTeste.csproj",
+              "RelativeToolTip": "..\\ConversaoTeste\\ConversaoTeste.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T17:41:11.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\ConversaoTeste\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\ConversaoTeste\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\ConversaoTeste\\UnitTest1.cs",
+              "RelativeToolTip": "..\\ConversaoTeste\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:40:32.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Conversao.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Conversao\\Conversao.cs",
+              "RelativeDocumentMoniker": "Conversao.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Conversao\\Conversao.cs",
+              "RelativeToolTip": "Conversao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:34:47.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Conversao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Conversao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:34:05.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

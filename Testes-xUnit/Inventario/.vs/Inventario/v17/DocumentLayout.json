@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Testes-xUnit\\Inventario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C86D9B-B24B-4D8D-B879-8AA039F352DC}|..\\InventarioTest\\InventarioTest.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\testes-xunit\\inventariotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A070AFF7-2A28-4507-8112-A698BA36C582}|Inventario.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\testes-xunit\\inventario\\lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A070AFF7-2A28-4507-8112-A698BA36C582}|Inventario.csproj|solutionrelative:lista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A070AFF7-2A28-4507-8112-A698BA36C582}|Inventario.csproj|c:\\users\\43869817801\\desktop\\quarto-semestre-senai\\testes-xunit\\inventario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A070AFF7-2A28-4507-8112-A698BA36C582}|Inventario.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Testes-xUnit\\InventarioTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\InventarioTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Testes-xUnit\\InventarioTest\\UnitTest1.cs",
+              "RelativeToolTip": "..\\InventarioTest\\UnitTest1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T18:16:13.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Testes-xUnit\\Inventario\\Lista.cs",
+              "RelativeDocumentMoniker": "Lista.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Testes-xUnit\\Inventario\\Lista.cs",
+              "RelativeToolTip": "Lista.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:53:55.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Testes-xUnit\\Inventario\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\43869817801\\Desktop\\Quarto-Semestre-Senai\\Testes-xUnit\\Inventario\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T17:53:35.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
