@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\bin\Debug\net8.0\Exercicio03-While.exe
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\bin\Debug\net8.0\Exercicio03-While.deps.json
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\bin\Debug\net8.0\Exercicio03-While.runtimeconfig.json
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\bin\Debug\net8.0\Exercicio03-While.dll
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\bin\Debug\net8.0\Exercicio03-While.pdb
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\Exercicio03-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\Exercicio03-While.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\Exercicio03-While.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\Exercicio03-While.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\Exercicio03-While.sourcelink.json
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\Exercicio03-While.dll
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\refint\Exercicio03-While.dll
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\Exercicio03-While.pdb
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\Exercicio03-While.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio03-While\obj\Debug\net8.0\ref\Exercicio03-While.dll

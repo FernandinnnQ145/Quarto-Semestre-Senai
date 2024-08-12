@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\bin\Debug\net8.0\Exercicio03.exe
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\bin\Debug\net8.0\Exercicio03.deps.json
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\bin\Debug\net8.0\Exercicio03.runtimeconfig.json
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\bin\Debug\net8.0\Exercicio03.dll
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\bin\Debug\net8.0\Exercicio03.pdb
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\Exercicio03.sourcelink.json
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\Exercicio03.dll
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\refint\Exercicio03.dll
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\Exercicio03.pdb
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\Exercicio03.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Segunda Lista\Exercicio03\obj\Debug\net8.0\ref\Exercicio03.dll

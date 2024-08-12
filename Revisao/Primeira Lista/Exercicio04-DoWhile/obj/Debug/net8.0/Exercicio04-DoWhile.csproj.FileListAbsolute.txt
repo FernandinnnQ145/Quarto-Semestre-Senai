@@ -1,0 +1,15 @@
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\bin\Debug\net8.0\Exercicio04-DoWhile.exe
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\bin\Debug\net8.0\Exercicio04-DoWhile.deps.json
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\bin\Debug\net8.0\Exercicio04-DoWhile.runtimeconfig.json
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\bin\Debug\net8.0\Exercicio04-DoWhile.dll
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\bin\Debug\net8.0\Exercicio04-DoWhile.pdb
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\Exercicio04-DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\Exercicio04-DoWhile.AssemblyInfoInputs.cache
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\Exercicio04-DoWhile.AssemblyInfo.cs
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\Exercicio04-DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\Exercicio04-DoWhile.sourcelink.json
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\Exercicio04-DoWhile.dll
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\refint\Exercicio04-DoWhile.dll
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\Exercicio04-DoWhile.pdb
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\Exercicio04-DoWhile.genruntimeconfig.cache
+C:\Users\43869817801\Desktop\Quarto-Semestre-Senai\Revisao\Exercicio04-DoWhile\obj\Debug\net8.0\ref\Exercicio04-DoWhile.dll
